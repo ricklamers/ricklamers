@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![rand](https://rand-xyz.now.sh/api/hello)
-
 <!--
 **ricklamers/ricklamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
