@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricklamers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricklamers&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
